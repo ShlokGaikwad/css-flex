@@ -1,0 +1,31 @@
+
+section{
+    /* margin-left: 160px; */
+    width: 50%;
+    height: 100vh;
+    background-color: bisque;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+.box{
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+    width: 30%;
+    height: 45vh;
+    background-color: white;
+}
+
+img{
+    height: 24vh;
+    width: 100%;
+    
+}
+
+.name{
+    text-align: center;
+}
+
+button{
+    background-color: aqua;
+}
